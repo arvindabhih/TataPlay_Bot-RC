@@ -1,12 +1,12 @@
-api_id = 17193413
+api_id = 25450294
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "1a5ef99bb275c1f1e6e7f0ff33c3e8b5"
 
-bot_token = "6094200729:AAF7U2jM_T35Wb4nWdvPdndFNjtZ7oQeTTA"
+bot_token = "6216536325:AAE4dTlIA3-8PYcJnireGCpwCqvIBLHE9Zw"
 
 GROUP_TAG = "RC"
 
-sudo_users = [1606667548]
+sudo_users = [1001881708447]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
@@ -18,17 +18,4 @@ DL_DONE_MSG = """
 
 
 script_developer = '''
-
-██████╗░██╗░░░██╗
-██╔══██╗╚██╗░██╔╝
-██████╦╝░╚████╔╝░
-██╔══██╗░░╚██╔╝░░
-██████╦╝░░░██║░░░
-╚═════╝░░░░╚═╝░░░
-
-██████╗░░█████╗░
-██╔══██╗██╔══██╗
-██████╔╝██║░░╚═╝
-██╔══██╗██║░░██╗
-██║░░██║╚█████╔╝
-╚═╝░░╚═╝░╚════╝'''
+arvaind╝'''
