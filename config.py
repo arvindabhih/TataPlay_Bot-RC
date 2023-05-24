@@ -4,7 +4,7 @@ api_hash = "1a5ef99bb275c1f1e6e7f0ff33c3e8b5"
 
 bot_token = "6216536325:AAE4dTlIA3-8PYcJnireGCpwCqvIBLHE9Zw"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "ttl"
 
 sudo_users = [1001881708447]
 
